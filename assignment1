@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div#tile {
+            padding: 5px;
+            border: 1px solid black;
+            font-size: 120%;
+            text-align: center;
+            color: maroon;
+            width: 30%;
+            float: left;
+            margin: 10px;
+        }
+    </style>
+
+</head>
+<body>
+
+<h1 style = "text-align: center">Menu</h1>
+
+<div id="tile">
+    <section style="text-align: right">
+        One
+    </section>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus sapien elit, eget facilisis ante ornare et. Quisque sed dui id ex feugiat suscipit. Suspendisse potenti. Duis lobortis dignissim velit id luctus. Phasellus aliquet leo quis diam congue, eu aliquam nibh vulputate. Integer sodales, neque id hendrerit porttitor, nunc sem ultrices velit, at laoreet orci leo et enim. Nullam malesuada, nulla at convallis finibus, orci odio varius tortor, non tristique massa lacus eu eros. Quisque scelerisque dui eget tellus rhoncus, sit amet consequat quam suscipit. Morbi bibendum eros ante, non blandit nisl auctor vitae. Pellentesque ut est pretium, accumsan diam vel, dignissim orci. Curabitur eget commodo ante.
+</div>
+
+<div id = "tile">
+    <section style="text-align: right">
+        Two
+    </section>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus sapien elit, eget facilisis ante ornare et. Quisque sed dui id ex feugiat suscipit. Suspendisse potenti. Duis lobortis dignissim velit id luctus. Phasellus aliquet leo quis diam congue, eu aliquam nibh vulputate. Integer sodales, neque id hendrerit porttitor, nunc sem ultrices velit, at laoreet orci leo et enim. Nullam malesuada, nulla at convallis finibus, orci odio varius tortor, non tristique massa lacus eu eros. Quisque scelerisque dui eget tellus rhoncus, sit amet consequat quam suscipit. Morbi bibendum eros ante, non blandit nisl auctor vitae. Pellentesque ut est pretium, accumsan diam vel, dignissim orci. Curabitur eget commodo ante.
+</div>
+
+<div id = "tile">
+    <section style="text-align: right">
+        Three
+    </section>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus sapien elit, eget facilisis ante ornare et. Quisque sed dui id ex feugiat suscipit. Suspendisse potenti. Duis lobortis dignissim velit id luctus. Phasellus aliquet leo quis diam congue, eu aliquam nibh vulputate. Integer sodales, neque id hendrerit porttitor, nunc sem ultrices velit, at laoreet orci leo et enim. Nullam malesuada, nulla at convallis finibus, orci odio varius tortor, non tristique massa lacus eu eros. Quisque scelerisque dui eget tellus rhoncus, sit amet consequat quam suscipit. Morbi bibendum eros ante, non blandit nisl auctor vitae. Pellentesque ut est pretium, accumsan diam vel, dignissim orci. Curabitur eget commodo ante.
+</div>
+
+</body>
+</html>
